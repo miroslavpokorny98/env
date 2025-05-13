@@ -84,7 +84,7 @@ export const activeModesAtom = atom((get) => {
 
 export const isLightPaintingAtom = atom(false);
 
-export const modelUrlAtom = atom("/911-transformed.glb");
+export const modelUrlAtom = atom("/01_05_001.glb");
 
 export const isCommandPaletteOpenAtom = atom(false);
 
