@@ -84,7 +84,7 @@ export const activeModesAtom = atom((get) => {
 
 export const isLightPaintingAtom = atom(false);
 
-export const modelUrlAtom = atom("/Lightweight_Stills.glb");
+export const modelUrlAtom = atom("/Lightweight_Stills_v2.glb");
 
 export const isCommandPaletteOpenAtom = atom(false);
 
